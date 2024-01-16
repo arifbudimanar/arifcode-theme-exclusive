@@ -154,7 +154,7 @@ Install `Apc Customize UI++` and add this to config
 	"cyan": "#5FB3B3",
 	"foreground": "#C6C6C6",
 	"green": "#99C794",
-	"name": "ArifCode Windows",
+	"name": "ArifCode Exclusive",
 	"purple": "#C594C5",
 	"red": "#E15A60",
 	"selectionBackground": "#C6C6C6",
